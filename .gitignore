@@ -2,6 +2,8 @@
 *.user
 bin/
 obj/
+build/
+deploy/
 localsettings.xml
 *.swp
 *~

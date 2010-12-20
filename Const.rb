@@ -1,7 +1,7 @@
 PROJ_NAME = 'Sample'
 DEV_FOLDER = 'dev-server'
 PROD_FOLDER = 'live-server'
-SLN_FILE = ".\\#{PROJ_NAME}\\#{PROJ_NAME}.sln"
+SLN_FILE = ".\\src\\#{PROJ_NAME}.sln"
 # ------------------------------------------------------------------------
 LOCAL_SQL = 'localhost'
 DEV_SQL = 'devsql'
